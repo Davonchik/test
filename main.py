@@ -33,3 +33,5 @@ class Knight:
                 else:
                     print('.', end='')
             print()
+
+print("Hello World!")
